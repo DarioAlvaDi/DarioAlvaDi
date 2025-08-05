@@ -9,7 +9,10 @@
 ### 🚀 Sobre mí
 
 Soy un desarrollador apasionado por construir soluciones sólidas del lado del servidor con tecnologías modernas como **Java + Spring Boot** y **TypeScript + Nest.js**, sin dejar de lado mi interés en la **Inteligencia Artificial** y el **análisis de datos** con **Python** 🧠📊.
-Colaborador Actual en SPS Solutions como API Developer Trainee
+
+
+
+Colaborador Actual en SPS Solutions como API Developer Trainee 
 
 - 🎯 Me enfoco en arquitectura limpia, buenas prácticas y soluciones escalables.
 - 🧠 Siempre aprendiendo: actualmente profundizando en arquitecturas distribuidas y DevOps.
