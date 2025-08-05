@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por construir soluciones sólidas del lado del s
 
 
 
-Colaborador Actual en SPS Solutions como API Developer Trainee 
+**Colaborador Actual en SPS Solutions como API Developer Trainee ** 
 
 - 🎯 Me enfoco en arquitectura limpia, buenas prácticas y soluciones escalables.
 - 🧠 Siempre aprendiendo: actualmente profundizando en arquitecturas distribuidas y DevOps.
