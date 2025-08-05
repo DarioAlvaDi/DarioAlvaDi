@@ -57,8 +57,8 @@ Soy un desarrollador apasionado por construir soluciones sólidas del lado del s
 
 ### 📫 ¿Cómo contactarme?
 
-- 📧 **Correo:** darioalvaradodiaz987@example.com  
+- 📧 **Correo:** darioalvaradodiaz987@gmail.com.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dario-alvarado-diaz-4a1683258/)  
 ---
 
-> *"La programación no se trata solo de escribir código, sino de resolver problemas de forma elegante."*
+> 
